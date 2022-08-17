@@ -1,0 +1,20 @@
+#searchBar {
+  margin: 15px 10px;
+}
+
+.tableWrapper {
+  max-height: 400px;
+  overflow: auto;
+}
+
+.jumbotron {
+  background-color: orange;
+}
+
+body {
+  background-color: blue;
+}
+
+.tableWrapper{ /* grey needed as to not clash with body color */
+  background-color: grey;
+}
